@@ -50,9 +50,9 @@ Implemented and evaluated using NS-3.41 and AquaSim-NG.
 
 ## Authors
 
-- Abhishek Jain
-- Krish
-- Sujal Goel
+- Abhishek Jain(Research paper)
+- Krish Arora(Main Developer)
+- Sujal Goel(Main Developer)
 
 ### Guided By
 
